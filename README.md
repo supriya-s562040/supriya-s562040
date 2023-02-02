@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<!--
-**supriya-s562040/supriya-s562040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on github
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning webapps
 - 👯 I’m looking to collaborate on repo
 - 🤔 I’m looking for help with gitbash
 - 💬 Ask me about AdB
